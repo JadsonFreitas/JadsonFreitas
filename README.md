@@ -1,7 +1,7 @@
 ## Oiii eu sou o Jadson Freitas!
 
 - 🌱 Estudando Ciencias de Dados
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 - 📷 Apaixonado em Fotografia 
 
 
