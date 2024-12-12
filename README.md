@@ -1,19 +1,12 @@
 ## Oiii eu sou o Jadson Freitas!
 
 - 🌱 Estudando Ciencias de Dados
-- 😄 Pronomes: Ele/Dele
-- 📷 Apaixonado em Fotografia 
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JF-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="JF-Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="JF-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="JF-Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg">
-  <img align="center" alt="JF-PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="JF-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JF-Conf" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg">
   
     
   
